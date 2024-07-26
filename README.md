@@ -21,9 +21,6 @@ Here are some ideas to get you started:
   <li> ★ Expertise across multiple industry domains E-Commerce, Fintech, OTT & Real Money Gaming.</li>
   <li> ★ Build multiple large-scale distributed transactional systems.</li>
   <li> ★ Experience in building high-performance teams and mentoring them. The maximum team size is ~22.</li>
-  <li> ★ Detail-oriented with strong analytical, problem-solving, communication, interpersonal, and presentation skills. </li>
-  <li> ★ Experience in managing teams across various functional domains (Development, Quality Assurance, and DevOps) </li>
-  <li> ★ Passionate about learning new technology paradigms and improving existing solutions and processes.</li>
- </ul> 
+  </ul> 
   
 
